@@ -153,7 +153,7 @@ export function AuthLayout({ children }: AuthLayoutProps) {
             className="w-full max-w-md bg-white/10 backdrop-blur-xl p-8 rounded-2xl shadow-2xl"
           >
             <div className="text-center mb-8">
-              <h2 className="text-3xl font-extrabold text-white">CRM SaaS</h2>
+              <h2 className="text-3xl font-extrabold text-white">Pitchforce</h2>
               <p className="mt-2 text-gray-300">Next-generation business management</p>
             </div>
             {children}
@@ -170,7 +170,7 @@ export function AuthLayout({ children }: AuthLayoutProps) {
                 transition={{ delay: 0.2 }}
                 className="space-y-8"
               >
-                <h2 className="text-4xl font-bold text-white">Transform Your Business with Our CRM</h2>
+                <h2 className="text-4xl font-bold text-white">Transform Your Business with Pitchforce</h2>
                 
                 {[
                   {

@@ -19,9 +19,9 @@ export function Sidebar({ className = '' }: SidebarProps) {
         className="flex h-16 items-center gap-2 px-4 border-b border-gray-200 dark:border-gray-700"
       >
         <span className="text-2xl font-bold bg-gradient-to-r from-accent-color to-accent-color-light bg-clip-text text-transparent">
-          CRM
+          Pitch
         </span>
-        <span className="text-2xl font-bold text-gray-900 dark:text-white">SaaS</span>
+        <span className="text-2xl font-bold text-gray-900 dark:text-white">force</span>
       </motion.div>
 
       {/* User Info */}

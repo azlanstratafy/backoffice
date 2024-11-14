@@ -65,7 +65,7 @@ export function LoginForm() {
     <div className="w-full max-w-md space-y-8">
       <div>
         <h2 className="text-center text-3xl font-bold tracking-tight">
-          Sign in to your account
+          Sign in to Pitchforce
         </h2>
       </div>
       <form className="mt-8 space-y-6" onSubmit={handleSubmit(onSubmit)}>
